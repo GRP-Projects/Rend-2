@@ -4,23 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bd223af-8ef2-44bd-9c2b-753f188b014e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rend 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Environment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RendFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RendPanel.java" afterDir="false" />
+    <list default="true" id="4bd223af-8ef2-44bd-9c2b-753f188b014e" name="Changes" comment="Init all relevant classes">
+      <change afterPath="$PROJECT_DIR$/src/Entities/Angle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entities/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Bear.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Cow.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Cube.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Homer.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Pumpkin.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Pyramid.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Ruler.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Teapot.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Coordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gabri/Desktop/Uni/Year 2/Semester 1/CSC2035 - Software Systems Design and Implementation/Practicals/Rend 2/src/Models",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +62,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\Desktop\Uni\Year 2\Semester 1\CSC2035 - Software Systems Design and Implementation\Practicals\Rend 2\src\Models" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,11 +83,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748201357333</updated>
-      <workItem from="1748201358447" duration="2948000" />
+      <workItem from="1748201358447" duration="7468000" />
     </task>
+    <task id="LOCAL-00001" summary="Init all relevant classes">
+      <option name="closed" value="true" />
+      <created>1748204389811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748204389811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init all relevant classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init all relevant classes" />
   </component>
 </project>

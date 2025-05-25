@@ -1,9 +1,10 @@
 package Entities;
 
 public class Camera {
-    Location location;
+    Coordinate position;
+    Angle angle;
 
-    public Camera() {
-        this.location = new Location(0, 0, 0);
+    public Camera(double x, double y, double z) {
+        this.position = new Coordinate(x, y, z);
     }
 }
