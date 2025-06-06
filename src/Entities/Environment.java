@@ -1,5 +1,8 @@
 package Entities;
 
+import Entities.Descriptors.Coordinate;
+import Entities.Descriptors.Face;
+
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.io.File;

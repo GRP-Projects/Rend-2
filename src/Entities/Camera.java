@@ -1,5 +1,8 @@
 package Entities;
 
+import Entities.Descriptors.Angle;
+import Entities.Descriptors.Coordinate;
+
 public class Camera {
     Coordinate position;
     Angle angle;

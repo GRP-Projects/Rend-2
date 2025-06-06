@@ -1,4 +1,4 @@
-package Entities;
+package Entities.Descriptors;
 
 public class Coordinate {
     double[] coordinates;

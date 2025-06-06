@@ -1,6 +1,4 @@
-package Entities;
-
-import java.util.ArrayList;
+package Entities.Descriptors;
 
 public class Angle {
     double[] angle;

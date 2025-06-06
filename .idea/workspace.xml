@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bd223af-8ef2-44bd-9c2b-753f188b014e" name="Changes" comment="Init all relevant classes">
-      <change afterPath="$PROJECT_DIR$/src/Entities/Angle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Face.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Bear.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Cow.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Cube.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Homer.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Pumpkin.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Pyramid.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Ruler.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Teapot.obj" afterDir="false" />
+    <list default="true" id="4bd223af-8ef2-44bd-9c2b-753f188b014e" name="Changes" comment="Added .obj model files and object import method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Angle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Descriptors/Angle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entities/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Coordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Descriptors/Coordinate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entities/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Environment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Coordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Face.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Descriptors/Face.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Entities/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Point.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RendFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RendFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RendPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RendPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748201357333</updated>
-      <workItem from="1748201358447" duration="7468000" />
+      <workItem from="1748201358447" duration="17277000" />
     </task>
     <task id="LOCAL-00001" summary="Init all relevant classes">
       <option name="closed" value="true" />
@@ -93,14 +87,34 @@
       <option name="project" value="LOCAL" />
       <updated>1748204389811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added .obj model files and object import method">
+      <option name="closed" value="true" />
+      <created>1748209738071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748209738072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init all relevant classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init all relevant classes" />
+    <MESSAGE value="Added .obj model files and object import method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .obj model files and object import method" />
   </component>
 </project>

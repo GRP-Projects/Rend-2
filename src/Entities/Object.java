@@ -1,4 +1,8 @@
 package Entities;
+import Entities.Descriptors.Angle;
+import Entities.Descriptors.Coordinate;
+import Entities.Descriptors.Face;
+
 import java.util.ArrayList;
 
 public class Object {

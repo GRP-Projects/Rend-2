@@ -1,3 +1,5 @@
+import Entities.Environment;
+
 import javax.swing.*;
 import java.awt.*;
 
